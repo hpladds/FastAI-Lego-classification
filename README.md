@@ -2,16 +2,16 @@
 
 Directory structure:
 
---Parent Dir
---
-
-  -[python code file]
-  
-  --data
-  
-    --Lego(or any other data sets)
-    
-       --[classwise_folders with images]
+```bash
+├── Parent dir
+│   ├── [python code file]
+│   ├── Test
+│   │   ├── [Test images]
+│   ├── data
+│   │   ├── Lego(or any other datasets)
+│   │     ├── [Classwise directories with images]
+└── .gitignore
+```
        
  To get fastai setup visit https://docs.fast.ai/#Installing
  
