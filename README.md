@@ -2,11 +2,11 @@
 
 Directory structure:
 
---Parent Dir
-  -[python code file]
-  --data
-    --Lego(or any other data sets)
-       --[classwise_folders with images]
+--Parent Dir\n
+  -[python code file]\n
+  --data\n
+    --Lego(or any other data sets)\n
+       --[classwise_folders with images]\n
        
  To get fastai setup visit https://docs.fast.ai/#Installing
  
