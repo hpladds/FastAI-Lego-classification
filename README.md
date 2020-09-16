@@ -15,8 +15,9 @@ Directory structure:
  To get fastai setup visit https://docs.fast.ai/#Installing
  
  Data taken from the Kaggle dataset : https://www.kaggle.com/ihelon/lego-minifigures-classification
+ 
  Modified data for the model is available in zip format in this repo as well.
  
- The model is trained with ResNet50 and gives loss of 10% with the current dataset.
+ The model is trained with ResNet50 and gives accuracy of about 90% with the current dataset with just tuning in learning rate of the model.
  
  
